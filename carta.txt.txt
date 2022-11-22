@@ -1,0 +1,4 @@
+Este es una primera practica utilizando el software de control de versiones GIT
+linea 1
+linea 2
+linea 3
